@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/writeitagain/static/css/main.eb3065e7.chunk.css",
+    "main.js": "/writeitagain/static/js/main.4f9329f7.chunk.js",
+    "main.js.map": "/writeitagain/static/js/main.4f9329f7.chunk.js.map",
+    "runtime-main.js": "/writeitagain/static/js/runtime-main.ccd379a7.js",
+    "runtime-main.js.map": "/writeitagain/static/js/runtime-main.ccd379a7.js.map",
+    "static/js/2.134383d0.chunk.js": "/writeitagain/static/js/2.134383d0.chunk.js",
+    "static/js/2.134383d0.chunk.js.map": "/writeitagain/static/js/2.134383d0.chunk.js.map",
+    "index.html": "/writeitagain/index.html",
+    "static/css/main.eb3065e7.chunk.css.map": "/writeitagain/static/css/main.eb3065e7.chunk.css.map",
+    "static/js/2.134383d0.chunk.js.LICENSE.txt": "/writeitagain/static/js/2.134383d0.chunk.js.LICENSE.txt",
+    "static/media/left-middle.ede32ad6.png": "/writeitagain/static/media/left-middle.ede32ad6.png",
+    "static/media/left-pinky.a8925600.png": "/writeitagain/static/media/left-pinky.a8925600.png",
+    "static/media/left-ring.110ce742.png": "/writeitagain/static/media/left-ring.110ce742.png",
+    "static/media/left-thumb.ee74b718.png": "/writeitagain/static/media/left-thumb.ee74b718.png",
+    "static/media/left-trigger.e8ddf5a9.png": "/writeitagain/static/media/left-trigger.e8ddf5a9.png",
+    "static/media/left.e8c38a9e.png": "/writeitagain/static/media/left.e8c38a9e.png",
+    "static/media/right-middle.b8e5dbab.png": "/writeitagain/static/media/right-middle.b8e5dbab.png",
+    "static/media/right-pinky.d95c23e0.png": "/writeitagain/static/media/right-pinky.d95c23e0.png",
+    "static/media/right-ring.1544d30a.png": "/writeitagain/static/media/right-ring.1544d30a.png",
+    "static/media/right-thumb.5f4e5600.png": "/writeitagain/static/media/right-thumb.5f4e5600.png",
+    "static/media/right-trigger.f19e27c9.png": "/writeitagain/static/media/right-trigger.f19e27c9.png",
+    "static/media/right.609e9700.png": "/writeitagain/static/media/right.609e9700.png",
+    "static/media/core.scss": "/writeitagain/static/media/seigaiha.88525b69.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ccd379a7.js",
+    "static/js/2.134383d0.chunk.js",
+    "static/css/main.eb3065e7.chunk.css",
+    "static/js/main.4f9329f7.chunk.js"
+  ]
+}
